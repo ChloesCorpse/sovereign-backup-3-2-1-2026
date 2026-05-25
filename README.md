@@ -1,3 +1,4 @@
+<!-- yandex-verification: ukoh0doylc381bk3 -->
 # Sovereign-Backup-3-2-1: Автономная система резервного копирования на базе Restic, Rclone и Docker (2026)
 
 ![License](https://img.shields.io/github/license/sovereign-backup/sovereign-backup-3-2-1?style=flat-square)
